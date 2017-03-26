@@ -56,12 +56,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angular/githubangularsearch.git"
+    "url": "git+https://github.com/bezzocoaline/githubangularsearch.git"
   },
   "author": "Aline Bezzoco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angular/githubangularsearch/issues"
+    "url": "https://github.com/bezzocoaline/githubangularsearch/issues"
   },
-  "homepage": "https://github.com/angular/githubangularsearch#readme"
+  "homepage": "https://github.com/bezzocoaline/githubangularsearch#readme"
 }
