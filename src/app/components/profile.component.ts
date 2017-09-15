@@ -13,7 +13,7 @@ export class ProfileComponent  {
 	username: string;
 
 	constructor(private _githubService: GithubService) { 
-		this.user = false;	
+		// this.user = false;	
 	}
 
 	searchUser() { 
